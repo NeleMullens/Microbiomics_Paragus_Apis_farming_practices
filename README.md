@@ -1,5 +1,7 @@
 # Effect of altitude and management practices on the microbiome of the honeybee Apis mellifera (Apidae) and the hoverfly Paragus borbonicus (Syrphidae) in Morogoro, Tanzania: code analysis
 
+[![DOI](https://zenodo.org/badge/872311169.svg)](https://doi.org/10.5281/zenodo.13991499)
+
 The code in this project refers to the analysis used in the scientific paper “Effect of altitude and management practices on the microbiome of the honeybee Apis mellifera (Apidae) and the hoverfly Paragus borbonicus (Syrphidae) in Morogoro, Tanzania: code analysis” by Mullens et al. The code is subdivided in four scripts, each referring to another step in the analysis. The scripts are numbered in the order of execution. All scripts function within an R project, with standard “data”, “outputs”, and “src” files. 
 
 The first script (01_Data_cleaning_PA.R) describes the code used to filter the dataset. Input for this analysis are fastq files created using metabarcoding sequencing of the V3 and V4 regions of 16S rRNA, in order to sequence the microbiome of -in the case of this study- pollinators. The Fastq files should before implementing this script undergo a quality check. The script contains both cleaning of the data (including using DADA2) as normalization steps. 
