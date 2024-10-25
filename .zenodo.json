@@ -1,0 +1,21 @@
+{
+    "title": "Effect of altitude and management practices on the microbiome of the honeybee Apis mellifera (Apidae) and the hoverfly Paragus borbonicus (Syrphidae) in Morogoro, Tanzania",
+    "description": "code used to do analysis and visualisation",
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "creators": [
+        {
+            "name": "Mullens, Nele",
+            "affiliation": "Universiteit Antwerpen",
+            "orcid": "0000-0002-3054-9665"
+        }
+    ],
+    "keywords": [
+        "pollinators",
+        "microbiome",
+        "environmental stressors",
+	"agriculture",
+	"agroecology"
+    ]
+}
